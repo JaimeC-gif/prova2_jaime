@@ -13,6 +13,6 @@ Aquesta imatge et porta a la web oficial de Git:
 
 ## Imatge local
 Aquesta imatge està allotjada a la carpeta `img/` del meu repositori:
-![La meva imatge personalitzada](img/foto.png)
+![La meva imatge personalitzada](IAW_markdown/img/Marc-Marqu.png)
 
 > Nota: Recorda sempre fer `git push` per actualitzar el repositori remot!
