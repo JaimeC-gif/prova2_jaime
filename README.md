@@ -1,1 +1,1 @@
-El meu segon repositori (files/jcc.md)
+[El meu segon repositori](files/jcc.md)
