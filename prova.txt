@@ -1,2 +1,7 @@
 Hola aquesta es la meua prova modificada per la branca primera
+<<<<<<< HEAD
+=======
+miauuuuuuu
+miauuuuu
+>>>>>>> segona
 Hola soc jaime
